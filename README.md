@@ -18,4 +18,4 @@ There were 90 Vine reviews and 37831 non-Vine reviews
 ![analysis](https://user-images.githubusercontent.com/96211484/163656497-4cc32531-87ee-43f0-a760-541470b105e3.png)
 
 ## Summary 
-It appears there is an advantage to using the Vine program as Vine reviews got 10% more 5 star reviews, but it is important to also be catious and look at the sample size. There is only 90 Vine reviews and 37831 non-Vine reviews so the data can be skewed. A further analysis that can be run is looking at 1 star reviews to see if Vine program raises the "floor" on bad reviews.
+It appears there is an advantage to using the Vine program as Vine reviews got 10% more 5 star reviews, but it is important to also be cautious and look at the sample size. There is only 90 Vine reviews and 37831 non-Vine reviews so the data can be skewed. A further analysis that can be run is looking at 1 star reviews to see if Vine program raises the "floor" on bad reviews.
